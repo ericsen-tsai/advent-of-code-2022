@@ -5,6 +5,6 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "start": "node 10.js"
+    "start": "node 17.js"
   }
 }
